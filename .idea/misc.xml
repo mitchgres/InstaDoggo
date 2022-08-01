@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/font/amiko_bold.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/$RCCQW7N.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/account_information_view.xml" value="0.33" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/account_profile_picture_setup_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/add_account_information_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/add_post_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/add_profile_picture_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/home_page_post.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/home_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/login_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/more_account_information_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/other_account_profile_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/other_profile_search_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/post_sucess_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/post_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/post_view_item.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/profile_search_item.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/profile_view.xml" value="0.1" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/search_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/signup_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/layout/splash_screen_view.xml" value="0.3625" />
+        <entry key="..\:/Users/mitch/AndroidStudioProjects/InstaDoggo2/app/src/main/res/xml/image_file_path.xml" value="0.3614583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

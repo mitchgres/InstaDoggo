@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718703180693",
+    "project_id": "instadoggo-a07bd",
+    "storage_bucket": "instadoggo-a07bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718703180693:android:44e11ec2e661515057d49c",
+        "android_client_info": {
+          "package_name": "com.instadoggo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718703180693-700btmp3glhaml0c93rgdp04qdrtisvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhFQn04G5s_yOUIyDxCyNtRGwIWVfDtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718703180693-700btmp3glhaml0c93rgdp04qdrtisvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
